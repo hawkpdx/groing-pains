@@ -1,5 +1,5 @@
 # My Personal Website
-Excuse the dust, im new!
+Excuse the dust, im new! 😀
 Growing pains: a glimpse into my crazy life! 
 - big fun 
 - big love
@@ -8,5 +8,5 @@ Growing pains: a glimpse into my crazy life!
 - wouldn't change it for the world
 - C’est la vie!
 
-..... and apparently bad grammar XD
+..... and apparently bad grammar 😅
 */
