@@ -1,6 +1,6 @@
 # My Personal Website
-// excuse the dust, im new. :)
-/. Growing pains: a glimpse into my crazy life! 
+Excuse the dust, im new. &#128512
+Growing pains: a glimpse into my crazy life! 
 - big fun 
 - big love
 - a bit wild
